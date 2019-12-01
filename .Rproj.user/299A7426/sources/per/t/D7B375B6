@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575221733285.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D7B375B6",
+    "lastKnownWriteTime" : 3693575381566450527,
+    "last_content_update" : 1575221733285,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7B3C37EF",
+        "caption" : "nIESctUNIVERSIDADES",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nIESctUNIVERSIDADES&cache_key=7B3C37EF",
+        "displayedObservations" : 2114,
+        "environment" : "",
+        "expression" : "nIESctUNIVERSIDADES",
+        "object" : "nIESctUNIVERSIDADES",
+        "preview" : 0,
+        "totalObservations" : 2114,
+        "variables" : 9
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
